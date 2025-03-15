@@ -1,1 +1,1 @@
-# minecraft.net-resourcepacks-mobile
+# minecraft.net-resourcepacks
